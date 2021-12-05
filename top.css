@@ -1,0 +1,16 @@
+.icon img{
+    height: 100px; width: 100px;
+}
+.icon{
+    content: 100px;
+    margin: 0px;
+}
+.input{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+.kakutei_btn{
+    width: 200px;
+}
